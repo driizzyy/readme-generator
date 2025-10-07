@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ### Running the Application
 
 ```bash
-python readme_generator.py
+python main.py
 ```
 
 ### Basic Usage
@@ -120,5 +120,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - GitHub: [@driizzyy](https://github.com/driizzyy)
 
 ## ⭐ Show your support
+
 
 Give a ⭐ if this project helped you create amazing README files!
